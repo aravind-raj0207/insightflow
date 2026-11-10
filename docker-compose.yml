@@ -1,0 +1,22 @@
+services:
+  db:
+    image: postgres:16
+    container_name: insightflow_db
+    environment:
+      POSTGRES_DB: insightflow
+      POSTGRES_USER: insightflow_admin
+      POSTGRES_PASSWORD: admin_dev_password
+    ports:
+      # Host port 5433 (not 5432) so it never clashes with a PostgreSQL already installed on your PC.
+      - "127.0.0.1:5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U insightflow_admin -d insightflow"]
+      interval: 3s
+      timeout: 3s
+      retries: 20
+
+volumes:
+  pgdata:

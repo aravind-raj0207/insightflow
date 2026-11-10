@@ -1,0 +1,801 @@
+restaurant_name,city,rating,votes,cuisine,price_range
+Restaurant 0001,Delhi,3.8,358,North Indian,3
+Restaurant 0002,Mumbai,4.0,152,South Indian,2
+Restaurant 0003,Hyderabad,3.8,183,Italian,3
+Restaurant 0004,Delhi,3.4,210,Desserts,2
+Restaurant 0005,Bangalore,3.7,432,South Indian,1
+Restaurant 0006,Kolkata,3.5,312,Chinese,1
+Restaurant 0007,Delhi,3.4,267,South Indian,2
+Restaurant 0008,Delhi,3.9,193,Chinese,1
+Restaurant 0009,Bangalore,4.5,225,Cafe,2
+Restaurant 0010,Mumbai,3.4,239,Chinese,4
+Restaurant 0011,Chennai,4.0,139,Cafe,1
+Restaurant 0012,Kolkata,3.7,180,Desserts,1
+Restaurant 0013,Delhi,4.2,256,Desserts,4
+Restaurant 0014,Hyderabad,4.1,392,Biryani,2
+Restaurant 0015,Mumbai,3.2,115,Cafe,1
+Restaurant 0016,Bangalore,3.7,5,Desserts,3
+Restaurant 0017,Mumbai,4.1,291,Fast Food,3
+Restaurant 0018,Bangalore,4.7,257,Chinese,2
+Restaurant 0019,Hyderabad,3.1,133,South Indian,2
+Restaurant 0020,Delhi,4.0,230,North Indian,1
+Restaurant 0021,Delhi,4.4,259,Desserts,1
+Restaurant 0022,Chennai,4.0,310,Biryani,2
+Restaurant 0023,Kolkata,4.0,105,Chinese,1
+Restaurant 0024,Hyderabad,,165,Chinese,2
+Restaurant 0025,Delhi,3.9,293,Chinese,3
+Restaurant 0026,Bangalore,3.4,112,Fast Food,1
+Restaurant 0027,Mumbai,2.9,5,Biryani,2
+Restaurant 0028,Bangalore,4.6,366,Desserts,1
+Restaurant 0029,Bangalore,3.8,322,Chinese,3
+Restaurant 0030,Delhi,3.6,190,Italian,1
+Restaurant 0031,Delhi,3.3,5,North Indian,2
+Restaurant 0032,Kolkata,3.2,210,Desserts,2
+Restaurant 0033,Chennai,4.0,88,Biryani,2
+Restaurant 0034,Chennai,3.7,235,Biryani,2
+Restaurant 0035,Mumbai,4.2,185,Italian,3
+Restaurant 0036,Bangalore,4.4,185,Chinese,2
+Restaurant 0037,Bangalore,4.4,252,Desserts,3
+Restaurant 0038,Mumbai,4.2,250,Italian,4
+Restaurant 0039,Bangalore,4.9,292,Cafe,2
+Restaurant 0040,Delhi,3.4,224,North Indian,2
+Restaurant 0041,Mumbai,3.9,182,Chinese,1
+Restaurant 0042,Hyderabad,,408,Fast Food,3
+Restaurant 0043,Delhi,4.5,322,North Indian,2
+Restaurant 0044,Chennai,3.4,107,North Indian,2
+Restaurant 0045,Hyderabad,3.9,145,Fast Food,1
+Restaurant 0046,Hyderabad,4.8,184,Chinese,3
+Restaurant 0047,Chennai,4.3,300,Chinese,2
+Restaurant 0048,Chennai,4.1,225,Biryani,2
+Restaurant 0049,Delhi,,5,South Indian,1
+Restaurant 0050,Bangalore,4.2,215,North Indian,4
+Restaurant 0051,Bangalore,4.3,190,North Indian,1
+Restaurant 0052,Bangalore,4.0,383,North Indian,1
+Restaurant 0053,Delhi,4.0,83,South Indian,3
+Restaurant 0054,Delhi,4.1,122,Cafe,4
+Restaurant 0055,Delhi,3.5,282,Chinese,1
+Restaurant 0056,Delhi,4.1,380,North Indian,2
+Restaurant 0057,Mumbai,5.0,292,North Indian,3
+Restaurant 0058,Mumbai,,91,Italian,3
+Restaurant 0059,Bangalore,4.4,338,Fast Food,2
+Restaurant 0060,Bangalore,3.9,14,Chinese,2
+Restaurant 0061,Delhi,4.2,102,North Indian,3
+Restaurant 0062,Mumbai,4.1,222,South Indian,3
+Restaurant 0063,Mumbai,4.4,425,Italian,3
+Restaurant 0064,Delhi,4.4,253,South Indian,2
+Restaurant 0065,Delhi,3.9,239,Desserts,1
+Restaurant 0066,Mumbai,4.6,417,Fast Food,4
+Restaurant 0067,Mumbai,3.0,307,Chinese,3
+Restaurant 0068,Chennai,4.9,290,Desserts,3
+Restaurant 0069,Bangalore,4.3,274,Chinese,1
+Restaurant 0070,Mumbai,4.4,447,South Indian,1
+Restaurant 0071,Bangalore,3.7,71,Desserts,3
+Restaurant 0072,Chennai,3.6,285,Desserts,1
+Restaurant 0073,Hyderabad,4.3,185,Chinese,4
+Restaurant 0074,Bangalore,4.2,273,Biryani,2
+Restaurant 0075,Bangalore,4.4,268,South Indian,3
+Restaurant 0076,Chennai,4.6,229,Cafe,3
+Restaurant 0077,Chennai,3.3,63,Cafe,2
+Restaurant 0078,Delhi,4.3,306,Cafe,2
+Restaurant 0079,Mumbai,4.0,325,Biryani,2
+Restaurant 0080,Delhi,3.8,206,Cafe,2
+Restaurant 0081,Delhi,3.2,156,Biryani,2
+Restaurant 0082,Chennai,4.3,325,Fast Food,2
+Restaurant 0083,Hyderabad,3.2,50,South Indian,4
+Restaurant 0084,Bangalore,4.5,366,Italian,2
+Restaurant 0085,Bangalore,3.5,248,Italian,1
+Restaurant 0086,Bangalore,4.2,502,Biryani,2
+Restaurant 0087,Delhi,3.9,188,South Indian,2
+Restaurant 0088,Mumbai,4.4,247,Chinese,1
+Restaurant 0089,Bangalore,4.0,315,Desserts,1
+Restaurant 0090,Mumbai,,271,North Indian,2
+Restaurant 0091,Bangalore,4.0,189,Cafe,2
+Restaurant 0092,Delhi,4.6,280,Cafe,4
+Restaurant 0093,Mumbai,4.1,303,Italian,1
+Restaurant 0094,Chennai,3.8,142,North Indian,1
+Restaurant 0095,Chennai,4.0,207,North Indian,3
+Restaurant 0096,Delhi,3.3,162,Chinese,3
+Restaurant 0097,Chennai,4.2,348,North Indian,1
+Restaurant 0098,Bangalore,3.3,106,North Indian,1
+Restaurant 0099,Bangalore,4.5,130,South Indian,1
+Restaurant 0100,Kolkata,3.9,57,South Indian,2
+Restaurant 0101,Hyderabad,5.0,246,Fast Food,2
+Restaurant 0102,Delhi,3.3,42,Cafe,1
+Restaurant 0103,Chennai,3.9,218,North Indian,1
+Restaurant 0104,Kolkata,4.7,213,Cafe,2
+Restaurant 0105,Delhi,4.6,249,South Indian,4
+Restaurant 0106,Delhi,3.6,121,Italian,2
+Restaurant 0107,Mumbai,4.1,207,North Indian,2
+Restaurant 0108,Chennai,4.0,356,North Indian,1
+Restaurant 0109,Bangalore,4.3,330,South Indian,1
+Restaurant 0110,Hyderabad,3.7,203,Italian,1
+Restaurant 0111,Mumbai,4.0,198,Italian,3
+Restaurant 0112,Bangalore,3.6,149,Chinese,3
+Restaurant 0113,Chennai,4.3,303,Biryani,4
+Restaurant 0114,Mumbai,4.3,331,Cafe,4
+Restaurant 0115,Bangalore,4.3,190,Cafe,4
+Restaurant 0116,Hyderabad,3.5,184,Biryani,4
+Restaurant 0117,Delhi,4.3,90,Biryani,1
+Restaurant 0118,Delhi,4.0,258,Italian,1
+Restaurant 0119,Mumbai,3.6,264,South Indian,2
+Restaurant 0120,Mumbai,3.8,194,Italian,2
+Restaurant 0121,Mumbai,3.2,308,North Indian,1
+Restaurant 0122,Delhi,3.5,104,Desserts,3
+Restaurant 0123,Bangalore,4.0,255,Chinese,2
+Restaurant 0124,Chennai,4.6,310,Fast Food,2
+Restaurant 0125,Bangalore,3.8,212,Desserts,1
+Restaurant 0126,Mumbai,4.2,249,Italian,1
+Restaurant 0127,Chennai,3.7,218,Fast Food,1
+Restaurant 0128,Bangalore,4.4,364,Italian,3
+Restaurant 0129,Bangalore,4.1,381,South Indian,2
+Restaurant 0130,Mumbai,4.4,291,North Indian,3
+Restaurant 0131,Bangalore,3.9,300,South Indian,1
+Restaurant 0132,Kolkata,3.2,75,Desserts,2
+Restaurant 0133,Mumbai,3.3,229,Italian,2
+Restaurant 0134,Chennai,3.9,159,Chinese,3
+Restaurant 0135,Mumbai,3.5,275,Italian,3
+Restaurant 0136,Bangalore,4.3,476,Chinese,1
+Restaurant 0137,Kolkata,3.8,206,Fast Food,4
+Restaurant 0138,Mumbai,4.9,156,Desserts,1
+Restaurant 0139,Delhi,3.2,95,North Indian,3
+Restaurant 0140,Bangalore,,377,Cafe,1
+Restaurant 0141,Mumbai,3.4,214,Chinese,1
+Restaurant 0142,Mumbai,3.8,240,North Indian,3
+Restaurant 0143,Kolkata,3.8,312,Desserts,1
+Restaurant 0144,Mumbai,2.9,153,North Indian,2
+Restaurant 0145,Mumbai,4.1,357,South Indian,2
+Restaurant 0146,Chennai,4.8,423,North Indian,1
+Restaurant 0147,Chennai,3.9,369,Italian,3
+Restaurant 0148,Mumbai,4.2,291,Biryani,3
+Restaurant 0149,Mumbai,4.5,381,Chinese,3
+Restaurant 0150,Bangalore,4.1,228,North Indian,2
+Restaurant 0151,Hyderabad,3.8,164,North Indian,2
+Restaurant 0152,Hyderabad,3.0,270,Desserts,1
+Restaurant 0153,Bangalore,4.4,309,Fast Food,1
+Restaurant 0154,Mumbai,3.8,291,Desserts,1
+Restaurant 0155,Bangalore,3.9,240,Biryani,4
+Restaurant 0156,Delhi,4.0,192,Biryani,3
+Restaurant 0157,Chennai,3.9,226,Fast Food,3
+Restaurant 0158,Delhi,3.7,329,Biryani,2
+Restaurant 0159,Delhi,4.2,311,Italian,2
+Restaurant 0160,Delhi,3.3,5,Chinese,2
+Restaurant 0161,Bangalore,4.7,302,Italian,2
+Restaurant 0162,Hyderabad,3.5,334,North Indian,2
+Restaurant 0163,Bangalore,3.8,200,South Indian,1
+Restaurant 0164,Bangalore,5.0,197,Cafe,1
+Restaurant 0165,Mumbai,4.6,485,Fast Food,4
+Restaurant 0166,Chennai,4.1,313,North Indian,2
+Restaurant 0167,Hyderabad,3.8,211,North Indian,4
+Restaurant 0168,Hyderabad,3.8,177,North Indian,1
+Restaurant 0169,Chennai,4.1,348,Fast Food,2
+Restaurant 0170,Kolkata,,166,Chinese,1
+Restaurant 0171,Chennai,3.9,336,Chinese,1
+Restaurant 0172,Mumbai,3.9,272,North Indian,1
+Restaurant 0173,Chennai,3.9,248,Desserts,1
+Restaurant 0174,Kolkata,3.4,177,Italian,4
+Restaurant 0175,Bangalore,4.0,221,Fast Food,2
+Restaurant 0176,Bangalore,4.6,408,Cafe,2
+Restaurant 0177,Mumbai,3.3,83,South Indian,2
+Restaurant 0178,Kolkata,3.8,66,Fast Food,2
+Restaurant 0179,Hyderabad,3.7,260,Biryani,2
+Restaurant 0180,Delhi,3.9,282,Biryani,1
+Restaurant 0181,Hyderabad,4.1,291,South Indian,4
+Restaurant 0182,Hyderabad,4.8,375,Fast Food,3
+Restaurant 0183,Mumbai,4.3,243,Desserts,3
+Restaurant 0184,Chennai,3.5,247,Italian,2
+Restaurant 0185,Delhi,4.1,251,North Indian,1
+Restaurant 0186,Delhi,3.7,162,Fast Food,4
+Restaurant 0187,Chennai,3.8,187,Desserts,2
+Restaurant 0188,Bangalore,4.3,454,Biryani,1
+Restaurant 0189,Delhi,3.7,46,Biryani,2
+Restaurant 0190,Chennai,,349,South Indian,3
+Restaurant 0191,Kolkata,3.5,30,North Indian,2
+Restaurant 0192,Bangalore,4.0,231,Desserts,3
+Restaurant 0193,Bangalore,4.0,200,Italian,3
+Restaurant 0194,Hyderabad,3.7,21,Chinese,1
+Restaurant 0195,Bangalore,4.9,378,Cafe,4
+Restaurant 0196,Bangalore,4.5,264,North Indian,2
+Restaurant 0197,Mumbai,4.7,138,North Indian,2
+Restaurant 0198,Hyderabad,5.0,435,South Indian,1
+Restaurant 0199,Bangalore,3.9,357,Italian,4
+Restaurant 0200,Chennai,4.0,375,Chinese,1
+Restaurant 0201,Delhi,3.3,188,South Indian,1
+Restaurant 0202,Kolkata,3.5,185,Chinese,2
+Restaurant 0203,Mumbai,3.6,311,Chinese,1
+Restaurant 0204,Bangalore,3.7,349,Biryani,1
+Restaurant 0205,Bangalore,3.7,310,Biryani,2
+Restaurant 0206,Bangalore,,172,Desserts,2
+Restaurant 0207,Bangalore,3.8,236,Fast Food,4
+Restaurant 0208,Delhi,4.3,314,Chinese,2
+Restaurant 0209,Bangalore,3.9,62,Desserts,3
+Restaurant 0210,Mumbai,5.0,402,Biryani,2
+Restaurant 0211,Delhi,3.7,409,South Indian,2
+Restaurant 0212,Mumbai,4.0,296,Chinese,2
+Restaurant 0213,Bangalore,3.6,327,Cafe,2
+Restaurant 0214,Hyderabad,5.0,376,Fast Food,4
+Restaurant 0215,Delhi,4.4,283,Chinese,2
+Restaurant 0216,Delhi,4.0,269,South Indian,1
+Restaurant 0217,Bangalore,3.6,119,South Indian,2
+Restaurant 0218,Bangalore,,199,North Indian,3
+Restaurant 0219,Kolkata,3.3,267,Cafe,1
+Restaurant 0220,Chennai,4.7,449,Biryani,2
+Restaurant 0221,Chennai,4.5,211,Italian,3
+Restaurant 0222,Mumbai,4.1,337,Cafe,3
+Restaurant 0223,Delhi,,109,Fast Food,4
+Restaurant 0224,Kolkata,3.4,200,Fast Food,2
+Restaurant 0225,Chennai,4.4,325,South Indian,2
+Restaurant 0226,Kolkata,4.4,378,Biryani,2
+Restaurant 0227,Bangalore,4.9,351,Desserts,4
+Restaurant 0228,Mumbai,3.2,276,Fast Food,2
+Restaurant 0229,Delhi,4.1,282,Chinese,3
+Restaurant 0230,Bangalore,4.7,376,Italian,2
+Restaurant 0231,Bangalore,3.5,100,Desserts,2
+Restaurant 0232,Chennai,4.1,450,North Indian,3
+Restaurant 0233,Kolkata,4.0,280,Biryani,2
+Restaurant 0234,Mumbai,4.0,302,North Indian,4
+Restaurant 0235,Kolkata,3.0,5,Desserts,2
+Restaurant 0236,Hyderabad,3.9,157,North Indian,2
+Restaurant 0237,Mumbai,,328,North Indian,2
+Restaurant 0238,Delhi,3.8,247,Chinese,2
+Restaurant 0239,Bangalore,4.0,62,South Indian,2
+Restaurant 0240,Bangalore,3.9,325,Italian,1
+Restaurant 0241,Hyderabad,4.0,188,Chinese,1
+Restaurant 0242,Delhi,4.1,380,Chinese,2
+Restaurant 0243,Bangalore,4.1,240,Biryani,2
+Restaurant 0244,Mumbai,3.8,231,Biryani,2
+Restaurant 0245,Mumbai,3.9,336,Desserts,1
+Restaurant 0246,Hyderabad,3.2,65,Italian,2
+Restaurant 0247,Mumbai,4.1,162,Biryani,1
+Restaurant 0248,Chennai,4.1,239,Cafe,3
+Restaurant 0249,Chennai,4.2,333,South Indian,3
+Restaurant 0250,Chennai,4.4,169,Cafe,1
+Restaurant 0251,Delhi,3.0,5,Fast Food,2
+Restaurant 0252,Hyderabad,3.1,207,Chinese,1
+Restaurant 0253,Mumbai,4.0,186,South Indian,1
+Restaurant 0254,Bangalore,4.1,219,Chinese,1
+Restaurant 0255,Bangalore,4.2,97,Chinese,1
+Restaurant 0256,Delhi,3.7,143,Biryani,2
+Restaurant 0257,Hyderabad,4.5,303,Fast Food,4
+Restaurant 0258,Bangalore,4.5,389,Biryani,1
+Restaurant 0259,Bangalore,4.4,221,South Indian,2
+Restaurant 0260,Mumbai,3.9,379,Chinese,3
+Restaurant 0261,Bangalore,3.4,108,Cafe,4
+Restaurant 0262,Hyderabad,4.4,229,Chinese,2
+Restaurant 0263,Chennai,4.5,441,Biryani,1
+Restaurant 0264,Bangalore,4.5,319,Cafe,2
+Restaurant 0265,Kolkata,3.5,126,Chinese,2
+Restaurant 0266,Bangalore,4.7,306,Cafe,4
+Restaurant 0267,Chennai,4.4,415,Italian,2
+Restaurant 0268,Bangalore,4.9,481,South Indian,2
+Restaurant 0269,Bangalore,3.7,134,Chinese,1
+Restaurant 0270,Bangalore,4.1,249,Italian,2
+Restaurant 0271,Bangalore,4.6,323,North Indian,3
+Restaurant 0272,Bangalore,4.2,179,Desserts,2
+Restaurant 0273,Bangalore,3.7,199,Biryani,2
+Restaurant 0274,Mumbai,4.3,277,North Indian,4
+Restaurant 0275,Delhi,4.3,372,Fast Food,3
+Restaurant 0276,Chennai,4.1,360,Fast Food,2
+Restaurant 0277,Chennai,4.2,229,North Indian,2
+Restaurant 0278,Mumbai,3.8,201,South Indian,2
+Restaurant 0279,Hyderabad,4.7,389,Chinese,2
+Restaurant 0280,Hyderabad,,148,Biryani,2
+Restaurant 0281,Bangalore,3.9,276,Cafe,1
+Restaurant 0282,Bangalore,4.4,277,Italian,4
+Restaurant 0283,Bangalore,4.8,244,Biryani,4
+Restaurant 0284,Bangalore,3.6,107,North Indian,3
+Restaurant 0285,Mumbai,3.5,313,Cafe,4
+Restaurant 0286,Chennai,3.2,132,Desserts,3
+Restaurant 0287,Bangalore,4.3,424,Biryani,3
+Restaurant 0288,Chennai,3.6,150,Italian,3
+Restaurant 0289,Mumbai,3.8,240,Chinese,2
+Restaurant 0290,Bangalore,4.5,516,Desserts,2
+Restaurant 0291,Hyderabad,3.7,110,North Indian,1
+Restaurant 0292,Bangalore,4.3,106,Chinese,2
+Restaurant 0293,Kolkata,3.6,313,South Indian,1
+Restaurant 0294,Bangalore,4.4,217,Fast Food,1
+Restaurant 0295,Hyderabad,4.3,273,Italian,2
+Restaurant 0296,Hyderabad,3.8,159,Desserts,2
+Restaurant 0297,Kolkata,3.7,228,Cafe,1
+Restaurant 0298,Hyderabad,4.6,230,Biryani,3
+Restaurant 0299,Delhi,4.2,243,Biryani,3
+Restaurant 0300,Delhi,3.2,184,South Indian,1
+Restaurant 0301,Delhi,4.1,164,Biryani,1
+Restaurant 0302,Bangalore,3.7,143,Cafe,2
+Restaurant 0303,Mumbai,4.7,289,Desserts,3
+Restaurant 0304,Mumbai,4.5,171,Biryani,3
+Restaurant 0305,Hyderabad,4.1,217,Desserts,1
+Restaurant 0306,Mumbai,4.1,263,Desserts,3
+Restaurant 0307,Chennai,3.9,190,Biryani,1
+Restaurant 0308,Delhi,4.2,241,Italian,2
+Restaurant 0309,Chennai,4.1,244,South Indian,4
+Restaurant 0310,Bangalore,4.2,209,Chinese,1
+Restaurant 0311,Mumbai,4.3,334,Desserts,1
+Restaurant 0312,Chennai,3.8,346,South Indian,2
+Restaurant 0313,Bangalore,3.9,190,Italian,2
+Restaurant 0314,Chennai,3.7,245,Cafe,4
+Restaurant 0315,Chennai,3.7,187,South Indian,4
+Restaurant 0316,Chennai,3.2,171,Desserts,1
+Restaurant 0317,Chennai,4.3,417,Cafe,1
+Restaurant 0318,Delhi,4.8,382,North Indian,3
+Restaurant 0319,Chennai,4.6,154,South Indian,1
+Restaurant 0320,Kolkata,3.2,185,Cafe,3
+Restaurant 0321,Hyderabad,4.4,399,Fast Food,2
+Restaurant 0322,Mumbai,4.5,282,Desserts,1
+Restaurant 0323,Chennai,3.9,321,Fast Food,3
+Restaurant 0324,Mumbai,3.9,168,North Indian,1
+Restaurant 0325,Hyderabad,3.2,7,Cafe,2
+Restaurant 0326,Delhi,4.0,256,North Indian,2
+Restaurant 0327,Hyderabad,3.6,34,North Indian,2
+Restaurant 0328,Mumbai,4.0,224,Cafe,2
+Restaurant 0329,Delhi,3.2,260,Italian,2
+Restaurant 0330,Chennai,4.5,123,Cafe,4
+Restaurant 0331,Delhi,4.5,188,Fast Food,4
+Restaurant 0332,Bangalore,3.9,130,North Indian,2
+Restaurant 0333,Delhi,3.3,152,Biryani,1
+Restaurant 0334,Hyderabad,3.2,109,Fast Food,3
+Restaurant 0335,Bangalore,4.3,395,Italian,4
+Restaurant 0336,Mumbai,3.7,289,Biryani,2
+Restaurant 0337,Bangalore,3.5,226,Italian,2
+Restaurant 0338,Delhi,4.1,266,Desserts,2
+Restaurant 0339,Bangalore,3.9,266,North Indian,1
+Restaurant 0340,Kolkata,3.4,87,Desserts,2
+Restaurant 0341,Bangalore,4.0,312,Fast Food,2
+Restaurant 0342,Kolkata,4.4,190,Fast Food,3
+Restaurant 0343,Hyderabad,4.4,366,Italian,3
+Restaurant 0344,Mumbai,4.0,344,Biryani,3
+Restaurant 0345,Delhi,4.2,281,Chinese,2
+Restaurant 0346,Delhi,3.4,150,Chinese,2
+Restaurant 0347,Kolkata,4.0,270,Desserts,3
+Restaurant 0348,Chennai,4.2,7,Biryani,3
+Restaurant 0349,Mumbai,,237,Cafe,2
+Restaurant 0350,Bangalore,4.5,288,North Indian,3
+Restaurant 0351,Mumbai,3.5,178,Fast Food,1
+Restaurant 0352,Bangalore,4.5,365,Cafe,3
+Restaurant 0353,Mumbai,4.1,248,Desserts,1
+Restaurant 0354,Mumbai,2.6,5,South Indian,1
+Restaurant 0355,Mumbai,4.5,286,Biryani,2
+Restaurant 0356,Mumbai,2.5,67,Biryani,1
+Restaurant 0357,Delhi,3.6,196,Biryani,1
+Restaurant 0358,Delhi,4.3,289,North Indian,1
+Restaurant 0359,Mumbai,3.8,311,Italian,2
+Restaurant 0360,Mumbai,3.4,67,Chinese,3
+Restaurant 0361,Kolkata,3.3,170,Biryani,1
+Restaurant 0362,Bangalore,4.7,436,South Indian,2
+Restaurant 0363,Bangalore,3.4,14,Italian,3
+Restaurant 0364,Bangalore,4.6,332,Biryani,1
+Restaurant 0365,Delhi,3.8,163,North Indian,1
+Restaurant 0366,Chennai,3.6,159,Fast Food,3
+Restaurant 0367,Delhi,3.7,125,Cafe,3
+Restaurant 0368,Delhi,3.5,159,North Indian,2
+Restaurant 0369,Chennai,4.5,469,North Indian,3
+Restaurant 0370,Hyderabad,4.3,165,Fast Food,1
+Restaurant 0371,Delhi,3.1,31,Chinese,2
+Restaurant 0372,Chennai,4.0,117,Fast Food,3
+Restaurant 0373,Chennai,3.6,346,Italian,1
+Restaurant 0374,Chennai,4.7,285,Chinese,3
+Restaurant 0375,Bangalore,3.6,189,Chinese,2
+Restaurant 0376,Bangalore,5.0,323,Cafe,3
+Restaurant 0377,Kolkata,3.8,136,North Indian,2
+Restaurant 0378,Mumbai,3.4,151,Italian,2
+Restaurant 0379,Chennai,3.7,422,Chinese,1
+Restaurant 0380,Delhi,3.5,301,South Indian,1
+Restaurant 0381,Mumbai,3.5,99,Chinese,3
+Restaurant 0382,Kolkata,3.8,277,Biryani,1
+Restaurant 0383,Delhi,3.3,78,Cafe,1
+Restaurant 0384,Mumbai,2.9,5,North Indian,1
+Restaurant 0385,Chennai,3.8,308,Fast Food,1
+Restaurant 0386,Kolkata,3.1,239,Desserts,3
+Restaurant 0387,Delhi,3.6,282,Cafe,2
+Restaurant 0388,Kolkata,3.6,151,Desserts,4
+Restaurant 0389,Bangalore,3.7,193,Italian,1
+Restaurant 0390,Hyderabad,5.0,425,Fast Food,2
+Restaurant 0391,Delhi,3.9,267,Cafe,2
+Restaurant 0392,Bangalore,4.3,243,Biryani,2
+Restaurant 0393,Mumbai,3.2,5,South Indian,3
+Restaurant 0394,Delhi,3.8,223,Biryani,4
+Restaurant 0395,Bangalore,4.4,383,Desserts,3
+Restaurant 0396,Mumbai,,62,Desserts,1
+Restaurant 0397,Hyderabad,4.4,346,Italian,1
+Restaurant 0398,Chennai,3.5,212,South Indian,2
+Restaurant 0399,Mumbai,3.8,277,Cafe,1
+Restaurant 0400,Mumbai,3.8,291,North Indian,3
+Restaurant 0401,Chennai,4.1,193,South Indian,2
+Restaurant 0402,Hyderabad,3.8,69,Biryani,2
+Restaurant 0403,Delhi,3.9,176,Desserts,3
+Restaurant 0404,Bangalore,4.2,342,Chinese,3
+Restaurant 0405,Kolkata,3.4,125,Italian,1
+Restaurant 0406,Hyderabad,4.2,203,Chinese,1
+Restaurant 0407,Chennai,4.2,96,Italian,2
+Restaurant 0408,Hyderabad,4.0,402,North Indian,2
+Restaurant 0409,Bangalore,3.9,306,Biryani,1
+Restaurant 0410,Kolkata,4.2,335,Biryani,2
+Restaurant 0411,Delhi,3.9,313,Chinese,3
+Restaurant 0412,Delhi,3.9,274,Chinese,3
+Restaurant 0413,Bangalore,4.3,248,Fast Food,2
+Restaurant 0414,Hyderabad,4.8,326,South Indian,2
+Restaurant 0415,Bangalore,3.5,144,North Indian,1
+Restaurant 0416,Bangalore,4.6,543,North Indian,2
+Restaurant 0417,Bangalore,3.4,213,Desserts,2
+Restaurant 0418,Delhi,4.0,199,Chinese,2
+Restaurant 0419,Bangalore,4.9,392,North Indian,2
+Restaurant 0420,Hyderabad,,175,Desserts,1
+Restaurant 0421,Delhi,3.9,364,South Indian,1
+Restaurant 0422,Bangalore,3.9,165,Chinese,1
+Restaurant 0423,Bangalore,4.3,321,North Indian,3
+Restaurant 0424,Bangalore,4.1,347,Cafe,2
+Restaurant 0425,Mumbai,3.5,217,Cafe,1
+Restaurant 0426,Hyderabad,4.0,252,Fast Food,3
+Restaurant 0427,Bangalore,4.3,276,Chinese,2
+Restaurant 0428,Hyderabad,3.7,203,Chinese,2
+Restaurant 0429,Bangalore,4.0,188,Desserts,4
+Restaurant 0430,Hyderabad,3.4,126,Fast Food,1
+Restaurant 0431,Kolkata,4.0,367,North Indian,1
+Restaurant 0432,Delhi,4.2,248,Cafe,2
+Restaurant 0433,Delhi,3.9,161,Fast Food,1
+Restaurant 0434,Hyderabad,4.5,255,Biryani,2
+Restaurant 0435,Bangalore,4.2,359,Cafe,1
+Restaurant 0436,Bangalore,4.3,337,North Indian,1
+Restaurant 0437,Bangalore,4.3,322,North Indian,1
+Restaurant 0438,Mumbai,3.9,207,North Indian,2
+Restaurant 0439,Delhi,3.6,242,South Indian,1
+Restaurant 0440,Delhi,4.8,281,Desserts,1
+Restaurant 0441,Hyderabad,4.0,211,Cafe,3
+Restaurant 0442,Bangalore,,316,Fast Food,2
+Restaurant 0443,Delhi,4.1,331,Chinese,2
+Restaurant 0444,Bangalore,4.2,180,Desserts,1
+Restaurant 0445,Chennai,3.4,94,South Indian,2
+Restaurant 0446,Delhi,4.3,290,Desserts,1
+Restaurant 0447,Kolkata,3.8,373,North Indian,2
+Restaurant 0448,Mumbai,3.4,5,North Indian,1
+Restaurant 0449,Bangalore,4.8,364,North Indian,3
+Restaurant 0450,Mumbai,4.4,164,Fast Food,4
+Restaurant 0451,Bangalore,3.6,130,Chinese,1
+Restaurant 0452,Hyderabad,4.8,303,Italian,1
+Restaurant 0453,Delhi,4.1,217,Italian,1
+Restaurant 0454,Bangalore,4.2,216,Fast Food,2
+Restaurant 0455,Bangalore,4.8,342,Chinese,1
+Restaurant 0456,Bangalore,4.4,235,North Indian,3
+Restaurant 0457,Kolkata,3.9,99,Italian,3
+Restaurant 0458,Mumbai,3.7,279,Chinese,3
+Restaurant 0459,Delhi,4.2,328,Cafe,2
+Restaurant 0460,Delhi,4.3,350,Fast Food,4
+Restaurant 0461,Mumbai,3.9,87,North Indian,1
+Restaurant 0462,Bangalore,3.9,249,Fast Food,2
+Restaurant 0463,Kolkata,3.9,291,North Indian,2
+Restaurant 0464,Chennai,4.2,169,Biryani,4
+Restaurant 0465,Mumbai,3.4,164,Italian,2
+Restaurant 0466,Delhi,3.3,148,Chinese,3
+Restaurant 0467,Delhi,4.1,415,Italian,1
+Restaurant 0468,Kolkata,2.8,275,Chinese,4
+Restaurant 0469,Bangalore,4.3,126,Fast Food,2
+Restaurant 0470,Mumbai,3.7,433,Desserts,2
+Restaurant 0471,Chennai,4.8,254,Fast Food,4
+Restaurant 0472,Mumbai,3.7,296,Italian,2
+Restaurant 0473,Bangalore,4.5,388,Biryani,2
+Restaurant 0474,Bangalore,4.0,154,Italian,2
+Restaurant 0475,Chennai,4.0,288,Fast Food,1
+Restaurant 0476,Chennai,4.4,277,Biryani,2
+Restaurant 0477,Chennai,3.8,262,Italian,1
+Restaurant 0478,Mumbai,4.3,300,Italian,1
+Restaurant 0479,Delhi,3.5,292,Italian,3
+Restaurant 0480,Chennai,4.2,269,Biryani,2
+Restaurant 0481,Chennai,4.5,281,Cafe,2
+Restaurant 0482,Bangalore,4.5,399,Italian,2
+Restaurant 0483,Mumbai,4.8,390,Fast Food,2
+Restaurant 0484,Chennai,3.7,271,Fast Food,2
+Restaurant 0485,Bangalore,3.7,150,Italian,4
+Restaurant 0486,Chennai,3.8,118,Desserts,4
+Restaurant 0487,Mumbai,4.3,219,South Indian,2
+Restaurant 0488,Bangalore,4.4,236,Desserts,2
+Restaurant 0489,Mumbai,4.0,311,Chinese,2
+Restaurant 0490,Mumbai,3.5,262,Biryani,2
+Restaurant 0491,Delhi,4.3,256,Chinese,2
+Restaurant 0492,Delhi,3.4,291,Italian,2
+Restaurant 0493,Delhi,4.4,414,Chinese,2
+Restaurant 0494,Chennai,5.0,381,Cafe,2
+Restaurant 0495,Delhi,4.1,175,North Indian,2
+Restaurant 0496,Mumbai,4.2,408,Fast Food,2
+Restaurant 0497,Mumbai,3.7,193,Desserts,1
+Restaurant 0498,Mumbai,3.1,139,Biryani,1
+Restaurant 0499,Chennai,3.9,193,Biryani,3
+Restaurant 0500,Mumbai,3.5,96,Cafe,2
+Restaurant 0501,Delhi,3.2,9,South Indian,1
+Restaurant 0502,Hyderabad,4.9,399,Cafe,2
+Restaurant 0503,Kolkata,4.1,177,South Indian,3
+Restaurant 0504,Mumbai,4.1,521,Cafe,1
+Restaurant 0505,Mumbai,3.9,130,Chinese,3
+Restaurant 0506,Delhi,4.0,125,Cafe,4
+Restaurant 0507,Chennai,4.5,345,Fast Food,2
+Restaurant 0508,Hyderabad,,385,South Indian,2
+Restaurant 0509,Mumbai,4.1,260,Biryani,1
+Restaurant 0510,Bangalore,4.3,325,Italian,4
+Restaurant 0511,Bangalore,4.1,80,Chinese,2
+Restaurant 0512,Hyderabad,3.6,131,Biryani,4
+Restaurant 0513,Bangalore,3.3,61,Desserts,2
+Restaurant 0514,Chennai,3.9,52,North Indian,1
+Restaurant 0515,Chennai,4.0,251,Desserts,1
+Restaurant 0516,Bangalore,3.6,5,Fast Food,2
+Restaurant 0517,Chennai,4.0,126,Biryani,2
+Restaurant 0518,Delhi,3.9,174,Biryani,1
+Restaurant 0519,Bangalore,3.3,83,Chinese,3
+Restaurant 0520,Hyderabad,3.7,245,South Indian,3
+Restaurant 0521,Hyderabad,4.3,299,Biryani,2
+Restaurant 0522,Chennai,,348,Fast Food,2
+Restaurant 0523,Bangalore,3.6,261,South Indian,1
+Restaurant 0524,Mumbai,4.1,356,Cafe,3
+Restaurant 0525,Bangalore,4.7,320,Cafe,2
+Restaurant 0526,Chennai,4.5,326,Fast Food,3
+Restaurant 0527,Kolkata,3.8,264,Chinese,2
+Restaurant 0528,Kolkata,3.6,210,Italian,2
+Restaurant 0529,Delhi,3.5,149,Italian,1
+Restaurant 0530,Chennai,4.2,232,Fast Food,1
+Restaurant 0531,Delhi,4.1,175,Desserts,3
+Restaurant 0532,Delhi,4.2,301,Italian,2
+Restaurant 0533,Chennai,4.1,245,Desserts,2
+Restaurant 0534,Delhi,4.4,232,Biryani,4
+Restaurant 0535,Bangalore,,229,Italian,4
+Restaurant 0536,Bangalore,4.6,208,North Indian,3
+Restaurant 0537,Mumbai,4.3,360,Biryani,1
+Restaurant 0538,Bangalore,3.8,228,Cafe,2
+Restaurant 0539,Bangalore,3.5,99,Desserts,3
+Restaurant 0540,Hyderabad,4.8,405,Cafe,2
+Restaurant 0541,Kolkata,3.9,177,North Indian,1
+Restaurant 0542,Mumbai,3.3,25,Biryani,3
+Restaurant 0543,Hyderabad,3.8,302,Cafe,2
+Restaurant 0544,Kolkata,4.2,216,Italian,2
+Restaurant 0545,Bangalore,4.2,232,Italian,4
+Restaurant 0546,Mumbai,3.7,211,Fast Food,2
+Restaurant 0547,Chennai,4.7,425,Biryani,2
+Restaurant 0548,Bangalore,3.7,210,Cafe,2
+Restaurant 0549,Delhi,3.6,78,Italian,2
+Restaurant 0550,Mumbai,4.0,285,Chinese,1
+Restaurant 0551,Mumbai,4.2,222,Biryani,3
+Restaurant 0552,Bangalore,4.5,471,Desserts,3
+Restaurant 0553,Bangalore,4.5,304,Biryani,1
+Restaurant 0554,Hyderabad,4.2,59,Cafe,2
+Restaurant 0555,Bangalore,4.5,333,North Indian,3
+Restaurant 0556,Bangalore,4.0,416,Desserts,1
+Restaurant 0557,Chennai,4.1,392,South Indian,2
+Restaurant 0558,Mumbai,4.0,405,Desserts,2
+Restaurant 0559,Mumbai,4.1,155,Italian,2
+Restaurant 0560,Mumbai,4.2,349,Desserts,1
+Restaurant 0561,Bangalore,4.5,230,Desserts,2
+Restaurant 0562,Bangalore,4.2,287,Fast Food,2
+Restaurant 0563,Hyderabad,,91,Desserts,2
+Restaurant 0564,Delhi,3.9,165,Biryani,1
+Restaurant 0565,Delhi,3.9,166,Fast Food,2
+Restaurant 0566,Delhi,4.0,320,South Indian,2
+Restaurant 0567,Delhi,4.8,410,North Indian,1
+Restaurant 0568,Bangalore,3.9,252,Biryani,1
+Restaurant 0569,Chennai,4.2,138,Fast Food,1
+Restaurant 0570,Mumbai,4.4,264,Fast Food,2
+Restaurant 0571,Chennai,4.0,175,Biryani,1
+Restaurant 0572,Hyderabad,5.0,438,Biryani,4
+Restaurant 0573,Mumbai,3.8,320,Biryani,2
+Restaurant 0574,Delhi,4.1,351,Fast Food,3
+Restaurant 0575,Hyderabad,3.9,157,Fast Food,4
+Restaurant 0576,Mumbai,3.7,5,North Indian,1
+Restaurant 0577,Hyderabad,4.2,104,Biryani,2
+Restaurant 0578,Mumbai,4.4,418,Italian,3
+Restaurant 0579,Hyderabad,4.2,230,Fast Food,2
+Restaurant 0580,Chennai,4.6,247,Biryani,2
+Restaurant 0581,Mumbai,3.9,377,Desserts,2
+Restaurant 0582,Mumbai,3.7,321,Italian,1
+Restaurant 0583,Bangalore,5.0,362,Cafe,2
+Restaurant 0584,Chennai,4.4,261,North Indian,4
+Restaurant 0585,Hyderabad,3.9,218,Desserts,4
+Restaurant 0586,Delhi,3.5,202,South Indian,1
+Restaurant 0587,Bangalore,3.9,367,Italian,3
+Restaurant 0588,Chennai,4.5,335,Fast Food,2
+Restaurant 0589,Bangalore,4.2,330,Desserts,4
+Restaurant 0590,Bangalore,4.2,367,Italian,1
+Restaurant 0591,Kolkata,4.0,133,Italian,4
+Restaurant 0592,Mumbai,4.4,352,North Indian,3
+Restaurant 0593,Chennai,3.6,165,Desserts,1
+Restaurant 0594,Mumbai,3.4,5,North Indian,1
+Restaurant 0595,Bangalore,4.4,95,North Indian,3
+Restaurant 0596,Chennai,4.3,178,Italian,1
+Restaurant 0597,Delhi,4.1,294,North Indian,2
+Restaurant 0598,Delhi,3.7,214,South Indian,4
+Restaurant 0599,Kolkata,4.2,276,Cafe,2
+Restaurant 0600,Mumbai,3.6,370,Cafe,2
+Restaurant 0601,Mumbai,3.7,92,Chinese,2
+Restaurant 0602,Delhi,3.4,166,Fast Food,1
+Restaurant 0603,Hyderabad,,366,Biryani,4
+Restaurant 0604,Delhi,4.2,197,South Indian,2
+Restaurant 0605,Kolkata,4.1,248,Cafe,1
+Restaurant 0606,Delhi,4.4,142,Biryani,1
+Restaurant 0607,Hyderabad,5.0,486,Fast Food,4
+Restaurant 0608,Bangalore,3.4,101,South Indian,1
+Restaurant 0609,Delhi,3.7,381,South Indian,3
+Restaurant 0610,Mumbai,3.8,208,Chinese,3
+Restaurant 0611,Mumbai,3.7,291,Chinese,3
+Restaurant 0612,Delhi,3.6,185,Desserts,4
+Restaurant 0613,Kolkata,3.8,213,Cafe,3
+Restaurant 0614,Kolkata,3.5,124,Biryani,4
+Restaurant 0615,Chennai,4.1,266,Biryani,1
+Restaurant 0616,Delhi,4.0,270,Desserts,3
+Restaurant 0617,Delhi,4.1,184,Italian,2
+Restaurant 0618,Chennai,4.3,263,South Indian,2
+Restaurant 0619,Bangalore,4.6,252,South Indian,3
+Restaurant 0620,Bangalore,4.2,471,Chinese,4
+Restaurant 0621,Delhi,4.9,345,Cafe,3
+Restaurant 0622,Mumbai,4.1,386,Italian,2
+Restaurant 0623,Kolkata,3.0,105,Italian,2
+Restaurant 0624,Mumbai,3.5,204,Italian,2
+Restaurant 0625,Kolkata,3.1,10,Desserts,2
+Restaurant 0626,Chennai,4.1,207,Desserts,2
+Restaurant 0627,Delhi,3.8,231,South Indian,1
+Restaurant 0628,Bangalore,3.9,373,North Indian,1
+Restaurant 0629,Mumbai,4.9,373,South Indian,3
+Restaurant 0630,Hyderabad,,403,Fast Food,2
+Restaurant 0631,Kolkata,4.3,339,Italian,4
+Restaurant 0632,Hyderabad,3.7,345,Fast Food,2
+Restaurant 0633,Bangalore,3.7,196,Cafe,1
+Restaurant 0634,Chennai,4.0,454,Biryani,1
+Restaurant 0635,Bangalore,4.2,221,Chinese,1
+Restaurant 0636,Bangalore,3.5,115,Chinese,4
+Restaurant 0637,Delhi,3.7,100,South Indian,1
+Restaurant 0638,Delhi,3.9,439,Biryani,2
+Restaurant 0639,Delhi,4.0,310,Chinese,4
+Restaurant 0640,Hyderabad,3.9,194,Chinese,4
+Restaurant 0641,Delhi,,302,North Indian,1
+Restaurant 0642,Hyderabad,3.9,292,Fast Food,1
+Restaurant 0643,Bangalore,4.2,437,Desserts,1
+Restaurant 0644,Bangalore,4.4,148,Italian,1
+Restaurant 0645,Mumbai,4.4,260,Biryani,1
+Restaurant 0646,Hyderabad,,192,Desserts,2
+Restaurant 0647,Bangalore,4.2,82,Biryani,4
+Restaurant 0648,Mumbai,4.2,354,Biryani,2
+Restaurant 0649,Delhi,4.2,237,Italian,2
+Restaurant 0650,Bangalore,3.9,298,Biryani,1
+Restaurant 0651,Chennai,4.5,511,Biryani,3
+Restaurant 0652,Hyderabad,4.5,270,Cafe,2
+Restaurant 0653,Delhi,4.6,270,Biryani,3
+Restaurant 0654,Bangalore,5.0,370,Biryani,4
+Restaurant 0655,Hyderabad,3.7,291,North Indian,2
+Restaurant 0656,Chennai,4.0,187,Desserts,1
+Restaurant 0657,Hyderabad,4.0,183,Desserts,1
+Restaurant 0658,Chennai,4.0,337,South Indian,2
+Restaurant 0659,Mumbai,3.8,253,Chinese,4
+Restaurant 0660,Chennai,3.4,5,Desserts,2
+Restaurant 0661,Chennai,4.2,151,Chinese,3
+Restaurant 0662,Hyderabad,3.7,343,Fast Food,2
+Restaurant 0663,Bangalore,4.2,296,Fast Food,1
+Restaurant 0664,Bangalore,3.9,153,Fast Food,2
+Restaurant 0665,Chennai,3.6,172,North Indian,2
+Restaurant 0666,Delhi,4.0,243,Italian,2
+Restaurant 0667,Hyderabad,4.1,323,Biryani,2
+Restaurant 0668,Kolkata,4.0,122,Fast Food,1
+Restaurant 0669,Chennai,5.0,284,South Indian,3
+Restaurant 0670,Chennai,4.1,277,Chinese,1
+Restaurant 0671,Bangalore,4.6,301,South Indian,4
+Restaurant 0672,Mumbai,3.4,218,Fast Food,1
+Restaurant 0673,Kolkata,3.2,33,Desserts,1
+Restaurant 0674,Delhi,4.6,346,South Indian,2
+Restaurant 0675,Mumbai,3.5,283,South Indian,2
+Restaurant 0676,Chennai,3.6,234,Chinese,2
+Restaurant 0677,Hyderabad,4.1,260,Desserts,2
+Restaurant 0678,Mumbai,4.1,240,Italian,4
+Restaurant 0679,Bangalore,3.8,141,Chinese,2
+Restaurant 0680,Chennai,3.9,224,Chinese,2
+Restaurant 0681,Bangalore,4.8,444,Biryani,2
+Restaurant 0682,Bangalore,3.8,201,Italian,1
+Restaurant 0683,Bangalore,3.6,109,South Indian,2
+Restaurant 0684,Mumbai,4.3,232,Fast Food,1
+Restaurant 0685,Delhi,4.1,273,Italian,2
+Restaurant 0686,Chennai,3.7,170,Chinese,1
+Restaurant 0687,Chennai,3.5,224,Cafe,4
+Restaurant 0688,Kolkata,3.5,230,Cafe,2
+Restaurant 0689,Delhi,4.0,315,South Indian,3
+Restaurant 0690,Mumbai,4.5,426,North Indian,2
+Restaurant 0691,Chennai,3.5,271,North Indian,1
+Restaurant 0692,Hyderabad,4.1,170,Fast Food,3
+Restaurant 0693,Bangalore,4.5,220,Cafe,2
+Restaurant 0694,Chennai,3.1,121,Fast Food,3
+Restaurant 0695,Hyderabad,4.5,264,Cafe,2
+Restaurant 0696,Mumbai,3.4,68,Italian,2
+Restaurant 0697,Delhi,4.1,216,Biryani,3
+Restaurant 0698,Mumbai,4.1,205,Cafe,2
+Restaurant 0699,Delhi,4.4,227,Italian,2
+Restaurant 0700,Chennai,4.3,248,Desserts,2
+Restaurant 0701,Bangalore,3.1,242,Desserts,2
+Restaurant 0702,Chennai,3.9,241,Fast Food,4
+Restaurant 0703,Bangalore,4.3,495,Desserts,2
+Restaurant 0704,Hyderabad,4.0,254,Italian,2
+Restaurant 0705,Chennai,4.4,256,North Indian,3
+Restaurant 0706,Mumbai,4.3,278,Italian,2
+Restaurant 0707,Delhi,4.3,294,Cafe,3
+Restaurant 0708,Delhi,3.8,256,Fast Food,2
+Restaurant 0709,Mumbai,3.0,312,Italian,1
+Restaurant 0710,Mumbai,3.8,144,Chinese,3
+Restaurant 0711,Kolkata,4.0,313,Italian,1
+Restaurant 0712,Delhi,3.3,179,Fast Food,1
+Restaurant 0713,Hyderabad,4.4,142,North Indian,2
+Restaurant 0714,Hyderabad,4.6,377,Chinese,3
+Restaurant 0715,Delhi,4.0,359,South Indian,3
+Restaurant 0716,Bangalore,2.8,13,Fast Food,1
+Restaurant 0717,Mumbai,3.3,155,Italian,1
+Restaurant 0718,Bangalore,5.0,204,North Indian,4
+Restaurant 0719,Delhi,3.6,76,Chinese,1
+Restaurant 0720,Kolkata,2.9,200,North Indian,1
+Restaurant 0721,Mumbai,4.4,250,Italian,1
+Restaurant 0722,Mumbai,4.0,136,Desserts,2
+Restaurant 0723,Bangalore,4.8,355,Biryani,3
+Restaurant 0724,Kolkata,4.1,200,Fast Food,3
+Restaurant 0725,Bangalore,4.5,257,Cafe,3
+Restaurant 0726,Bangalore,4.3,341,Desserts,1
+Restaurant 0727,Bangalore,4.5,198,Chinese,2
+Restaurant 0728,Bangalore,5.0,278,Desserts,2
+Restaurant 0729,Mumbai,4.3,291,South Indian,1
+Restaurant 0730,Mumbai,3.2,227,Italian,1
+Restaurant 0731,Chennai,4.3,382,Cafe,2
+Restaurant 0732,Bangalore,4.6,257,Chinese,1
+Restaurant 0733,Bangalore,4.8,414,Chinese,2
+Restaurant 0734,Chennai,3.9,163,South Indian,3
+Restaurant 0735,Bangalore,4.7,482,North Indian,1
+Restaurant 0736,Delhi,4.3,177,Biryani,2
+Restaurant 0737,Bangalore,5.0,479,Desserts,3
+Restaurant 0738,Chennai,3.8,157,South Indian,3
+Restaurant 0739,Chennai,3.9,410,Italian,3
+Restaurant 0740,Chennai,3.9,283,Desserts,2
+Restaurant 0741,Bangalore,4.1,156,Fast Food,3
+Restaurant 0742,Bangalore,3.7,160,North Indian,1
+Restaurant 0743,Hyderabad,2.8,170,Biryani,2
+Restaurant 0744,Bangalore,3.9,326,South Indian,1
+Restaurant 0745,Mumbai,4.1,248,South Indian,2
+Restaurant 0746,Mumbai,3.7,212,South Indian,2
+Restaurant 0747,Chennai,4.9,410,Biryani,1
+Restaurant 0748,Mumbai,4.0,257,South Indian,3
+Restaurant 0749,Delhi,4.5,182,Chinese,2
+Restaurant 0750,Hyderabad,4.1,180,South Indian,1
+Restaurant 0751,Chennai,4.4,303,Chinese,1
+Restaurant 0752,Chennai,4.2,371,Cafe,2
+Restaurant 0753,Bangalore,4.8,484,Italian,2
+Restaurant 0754,Mumbai,4.0,308,Chinese,2
+Restaurant 0755,Delhi,4.1,272,Biryani,1
+Restaurant 0756,Bangalore,4.5,361,Biryani,3
+Restaurant 0757,Chennai,4.1,190,North Indian,4
+Restaurant 0758,Kolkata,4.0,231,Desserts,2
+Restaurant 0759,Bangalore,5.0,285,Desserts,2
+Restaurant 0760,Mumbai,3.9,117,Biryani,3
+Restaurant 0761,Delhi,4.3,301,Biryani,4
+Restaurant 0762,Bangalore,4.8,349,Cafe,2
+Restaurant 0763,Bangalore,4.8,398,Italian,3
+Restaurant 0764,Bangalore,4.4,334,Chinese,4
+Restaurant 0765,Hyderabad,3.1,152,Chinese,3
+Restaurant 0766,Bangalore,4.4,343,South Indian,2
+Restaurant 0767,Bangalore,3.1,131,Fast Food,1
+Restaurant 0768,Bangalore,4.8,372,Chinese,1
+Restaurant 0769,Bangalore,4.3,208,Chinese,2
+Restaurant 0770,Mumbai,4.4,322,Desserts,2
+Restaurant 0771,Bangalore,3.8,276,Biryani,2
+Restaurant 0772,Mumbai,3.3,91,Biryani,2
+Restaurant 0773,Mumbai,4.1,253,South Indian,2
+Restaurant 0774,Hyderabad,4.1,201,Chinese,3
+Restaurant 0775,Bangalore,3.9,181,Cafe,1
+Restaurant 0776,Hyderabad,4.0,143,Italian,1
+Restaurant 0777,Mumbai,5.0,473,South Indian,3
+Restaurant 0778,Bangalore,4.7,415,Fast Food,3
+Restaurant 0779,Delhi,4.5,353,Italian,4
+Restaurant 0780,Hyderabad,4.5,482,Cafe,3
+Restaurant 0781,Chennai,4.8,319,Chinese,3
+Restaurant 0782,Hyderabad,4.0,512,Biryani,2
+Restaurant 0783,Mumbai,3.0,103,Fast Food,2
+Restaurant 0784,Mumbai,3.8,238,Desserts,1
+Restaurant 0785,Kolkata,4.2,231,South Indian,2
+Restaurant 0786,Chennai,3.8,247,Cafe,4
+Restaurant 0787,Hyderabad,4.0,315,Desserts,2
+Restaurant 0788,Chennai,3.7,199,Cafe,2
+Restaurant 0789,Delhi,4.5,460,South Indian,1
+Restaurant 0790,Mumbai,4.2,287,South Indian,1
+Restaurant 0791,Bangalore,4.4,315,South Indian,1
+Restaurant 0792,Chennai,4.3,189,North Indian,1
+Restaurant 0793,Chennai,4.2,302,Fast Food,4
+Restaurant 0794,Bangalore,4.3,263,Desserts,2
+Restaurant 0795,Bangalore,3.8,156,Biryani,3
+Restaurant 0796,Chennai,3.1,59,Biryani,2
+Restaurant 0797,Bangalore,4.2,504,Fast Food,1
+Restaurant 0798,Bangalore,4.3,249,Italian,1
+Restaurant 0799,Delhi,4.5,172,Italian,3
+Restaurant 0800,Delhi,4.5,241,Biryani,1
